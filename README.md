@@ -151,3 +151,7 @@ Utilice vitest para hacer las pruebas
 ## Deploy
 
 - vercel
+
+## Propuesta de mejora - consumo de backend
+
+Una buena opcion para mejorar seria interceptar ya sea con GraphQL o con un adapter para solo traer la informacion necesaria del back. Al ser una Fake-API no tengo tanto manejo de la informacion recibida.
