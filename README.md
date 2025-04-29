@@ -12,6 +12,14 @@ Hola este proyecto se usaron las siguientes tecnologias:
 - tailwind css
 - vitest
 
+---
+
+**IMPORTANTE**
+
+para la autenticacion (login) puedes usar cualquier email y cualquier password
+
+---
+
 si deseas correr el proyecto con el comando
 
 ```bash
@@ -139,3 +147,7 @@ Utilice vitest para hacer las pruebas
 ```bash
  npm run test
 ````
+
+## Deploy
+
+- vercel
