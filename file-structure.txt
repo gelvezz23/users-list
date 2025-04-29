@@ -1,0 +1,87 @@
+.
+├── eslint.config.js
+├── file-structure.txt
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.mjs
+├── public
+│   ├── mockServiceWorker.js
+│   └── vite.svg
+├── README.md
+├── src
+│   ├── App.tsx
+│   ├── application
+│   │   ├── config
+│   │   │   └── index.ts
+│   │   └── useCase
+│   │       ├── GenerateFakeJWT
+│   │       │   └── index.ts
+│   │       └── PermissionsRouter
+│   │           ├── index.ts
+│   │           ├── isAuthenticated.tsx
+│   │           ├── ProtectedRoute.tsx
+│   │           └── PublicRouter.tsx
+│   ├── entities
+│   │   ├── RowRendered.ts
+│   │   └── Users.ts
+│   ├── index.css
+│   ├── infrastructure
+│   │   ├── api
+│   │   │   ├── auth
+│   │   │   │   ├── auth.ts
+│   │   │   │   └── index.ts
+│   │   │   └── browser
+│   │   │       └── index.ts
+│   │   ├── axios
+│   │   │   └── index.ts
+│   │   └── Router
+│   │       ├── provider.tsx
+│   │       └── router.tsx
+│   ├── main.tsx
+│   ├── presentation
+│   │   ├── assets
+│   │   │   ├── logo.jpeg
+│   │   │   └── react.svg
+│   │   ├── components
+│   │   │   ├── Error
+│   │   │   │   ├── Error.tsx
+│   │   │   │   └── index.ts
+│   │   │   ├── icons
+│   │   │   │   ├── FaFacebook.tsx
+│   │   │   │   ├── FaInstagram.tsx
+│   │   │   │   ├── FaLinkedin.tsx
+│   │   │   │   ├── FaTwitter.tsx
+│   │   │   │   └── index.tsx
+│   │   │   ├── Layout
+│   │   │   │   ├── Footer
+│   │   │   │   │   ├── Footer.tsx
+│   │   │   │   │   └── index.ts
+│   │   │   │   ├── Layout.tsx
+│   │   │   │   └── Navbar
+│   │   │   │       ├── index.ts
+│   │   │   │       └── Navbar.tsx
+│   │   │   ├── Loading
+│   │   │   │   ├── index.ts
+│   │   │   │   └── Loading.tsx
+│   │   │   ├── rowRender
+│   │   │   │   ├── index.ts
+│   │   │   │   └── rowRender.tsx
+│   │   │   └── UserList
+│   │   │       ├── index.ts
+│   │   │       └── UserList.tsx
+│   │   └── screens
+│   │       ├── Home
+│   │       │   ├── Home.tsx
+│   │       │   └── index.ts
+│   │       └── Login
+│   │           ├── index.ts
+│   │           └── Login.tsx
+│   └── vite-env.d.ts
+├── tailwind.config.ts
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+└── vite.config.ts
+
+29 directories, 56 files
