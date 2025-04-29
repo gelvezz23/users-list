@@ -155,3 +155,12 @@ Utilice vitest para hacer las pruebas
 ## Propuesta de mejora - consumo de backend
 
 Una buena opcion para mejorar seria interceptar ya sea con GraphQL o con un adapter para solo traer la informacion necesaria del back. Al ser una Fake-API no tengo tanto manejo de la informacion recibida.
+
+## pagina
+
+<img width="816" alt="image" src="https://github.com/user-attachments/assets/b61aa9d8-696a-40a3-813a-f7098e052f2a" />
+
+<img width="823" alt="image" src="https://github.com/user-attachments/assets/f4fd3d2d-9d56-4e37-a265-c4e358e4a0c2" />
+
+
+
